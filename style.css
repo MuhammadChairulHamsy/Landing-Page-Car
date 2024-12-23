@@ -76,7 +76,7 @@ nav .list-nav a:hover {
 }
 
 .hero {
-  background-image: url("/Landing-page-Cars/img/Bg3.jpg");
+  background-image: url("img/Bg3.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
